@@ -1,0 +1,50 @@
+{
+  "_from": "daily-date-file-appender@^1.0.0",
+  "_id": "daily-date-file-appender@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-OndallEQL2AT9nBWXjL4FgqXor0=",
+  "_location": "/daily-date-file-appender",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "daily-date-file-appender@^1.0.0",
+    "name": "daily-date-file-appender",
+    "escapedName": "daily-date-file-appender",
+    "rawSpec": "^1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/daily-date-file-appender/download/daily-date-file-appender-1.0.0.tgz",
+  "_shasum": "3a775a9651102f6013f670565e32f8160a97a2bd",
+  "_spec": "daily-date-file-appender@^1.0.0",
+  "_where": "/Users/huanluo/Projects/date-file-appender",
+  "author": {
+    "name": "Luo Huan"
+  },
+  "bugs": {
+    "url": "https://github.com/beiyehou/daily-date-file-appender/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "An daily datefile  appender for log4js",
+  "homepage": "https://github.com/beiyehou/daily-date-file-appender#readme",
+  "keywords": [
+    "log4js"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "daily-date-file-appender",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beiyehou/daily-date-file-appender.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
